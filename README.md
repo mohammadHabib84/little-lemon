@@ -1,2 +1,2 @@
 # little-lemon
-My first Front End Project
+My first Front End Web Project
